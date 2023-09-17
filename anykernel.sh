@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Ryzen Kernel by Edwiin Kusuma Jaya @ telegram
+kernel.string=MINT Kernel by Rasyid @Rsyd58
 do.devicecheck=1
 do.modules=1
 do.systemless=0
